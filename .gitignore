@@ -1,0 +1,5 @@
+﻿*.~*
+*.exe
+*.dcu
+*.ddp
+clearDB.txt
